@@ -196,6 +196,19 @@ button{
         opacity: 0;
     }
 }
+/* Background circles */
+.bg-circles{
+    position: fixed;
+    top: 0;
+    height: 100%;
+    background-color: red;
+    max-width: 1200px;
+    width: calc(100% - 30%);
+    left: 50%;
+    transform: translate(-50%);
+    /*1:57:56*/
+
+}
 /* overlay */
 .overlay{
     position: fixed;
